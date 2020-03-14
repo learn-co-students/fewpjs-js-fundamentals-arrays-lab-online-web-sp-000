@@ -47,3 +47,4 @@ with for each exercise.
 
 We put our array knowledge into practice by writing and manipulating arrays.
 We also covered the concept of mutating state.
+
