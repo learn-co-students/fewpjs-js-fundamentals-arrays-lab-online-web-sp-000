@@ -1,6 +1,6 @@
 const sinon = require( 'sinon' )
 
-describe('index.js', function () {
+describe('index.js', function () { 
   describe('Array functions', function () {
     describe('append', function () {
       it('appends pet "Odie" to the end of the pets array', function () {
