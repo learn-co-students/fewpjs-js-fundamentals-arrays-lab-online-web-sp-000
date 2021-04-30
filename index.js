@@ -6,6 +6,7 @@ const append = [...pets, 'Odie']
 const prepend = ['Odie', ...pets];
 // or pets.unshift('Odie')
 
+// use .slice to create a copy of pets array.
 const removeLast = pets.slice();
 const removeFirst = pets.slice();
 
